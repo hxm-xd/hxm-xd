@@ -1,77 +1,93 @@
 Hi, I'm Hamood Thariq
 
-Software Engineering Student — Sri Lanka
-Focused on IT Project Management, Full-Stack Development, and IoT Solutions.
-Driven to build impactful digital products through structured execution, teamwork, and continuous learning.
+Software Engineering Undergraduate — Sri Lanka
+Focused on IT Project Management, Full-Stack Development, and IoT Solutions
 
-About Me
+I enjoy turning ideas into successful, user-focused solutions through collaboration, structured planning, and continuous learning.
 
-I am a dedicated Software Engineering undergraduate with experience coordinating projects in web, mobile, and embedded systems.
-I enjoy transforming ideas into successful results by prioritizing communication, clear planning, and progress tracking.
+📌 About Me
 
-“I believe great engineering is built on collaboration, clarity, and consistency.”
+Motivated to grow in project leadership roles while contributing to impactful digital products.
+Strengths in coordination, communication, and task execution within tech teams.
 
-Core Skills
+“Clear planning + teamwork + consistent iteration = successful delivery.”
 
+🧠 Core Skills
 Project & Collaboration
 
-Project Coordination & Leadership
+Project Coordination & Team Leadership
 
-Agile Delivery Support
+Agile Principles & Delivery Support
 
-Task Planning & Tracking
+Task Tracking & Reporting
+
+Stakeholder Communication
 
 Requirements Documentation
 
-Stakeholder Interaction
-
 Technical
 
-Languages: Java, JavaScript, Dart, C#, Python
+Languages: Java, JavaScript, Dart, Python
 
-Tools/Frameworks: Spring Boot, React.js, Flutter
+Frameworks/Tools: Spring Boot, React.js, Flutter
 
 Databases: MySQL, Firebase
 
 Other: REST APIs, Git & GitHub, IoT
 
-Projects
+📂 Featured Projects
+Project	Role	Area
+Billing & Inventory Management System	Team Lead	PM + Full Stack
+IoT-Based Landslide Detection System	Team Lead	PM + IoT
+Rotaract Club Website	Lead Developer	PM + Web Dev
+QuickCart Mobile App	Team Lead	PM + Mobile Dev
 
-Billing & Inventory Management System — Team Lead (4)
-Coordinated team deliverables for a management solution for motor service and spare parts operations
+🔗 Live Example: rackhcp.vercel.app
 
-IoT-Based Landslide Detection System — Team Lead (4)
-Managed task allocation and delivery for real-time alerting and safety monitoring solution
+I will be adding demos, screenshots, and repository links as they are deployed.
 
-Rotaract Club Website — Lead Developer (5)
-Developed the club’s platform and coordinated dashboard feature planning (rackhcp.vercel.app)
+📌 What I'm Working On
 
-QuickCart Mobile App — Team Lead (5)
-Led an all-in-one app project integrating goods & on-demand services ordering
+Refining my project management and Agile delivery experience
 
-Leadership & Volunteering
+Improving UI/UX & dashboard integration for club website
 
-Director of Professional Development — Rotaract Club of Kandy Hill Capital
+Building mini-tools for portfolio expansion
+
+Preparing to publish all major project repos publicly
+
+🏆 Leadership & Community
+
+Director of Professional Development — Rotaract KHC
 
 Co-Lead — STEM UP Foundation
 
 Member — NIBM IT Society
 
-Built skills in team coordination, organizing operations, and managing responsibilities effectively.
+Gained strong teamwork, communication, and initiative-driven experience.
 
-GitHub Stats
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=hxm-xd&show_icons=true&hide_border=true&theme=react"/> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxm-xd&layout=compact&hide_border=true&theme=react"/> </p>
-Goals
+📊 GitHub Insights
+Contribution Activity (Animated)
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hxm-xd&theme=react&hide_border=true"/> </p>
+Stats & Languages
+<p align="center"> <img height="155" src="https://github-readme-stats.vercel.app/api?username=hxm-xd&show_icons=true&theme=react&hide_border=true"/> <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxm-xd&layout=compact&theme=react&hide_border=true"/> </p>
+📌 Pinned Work
+<p align="center"> <a href="https://github.com/hxm-xd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hxm-xd&repo=khcp-web&theme=react&hide_border=true"/></a> <a href="https://github.com/hxm-xd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hxm-xd&repo=ldms-web&theme=react&hide_border=true"/></a> </p>
 
-Grow into IT Project Manager / Tech Lead roles
+Replace Project-1 and Project-2 with your repository names once uploaded and I will update the links for you.
 
-Work on enterprise-grade software & emerging technologies
+🎯 Goals
 
-Contribute to high-impact solutions in global teams
+Become a future Project Manager / Tech Lead
 
-Contact
+Work with enterprise-grade projects in global teams
+
+Contribute to impactful software and resilient IoT solutions
+
+📫 Contact
 
 📧 HamoodThariq@outlook.com
 
 📍 Sri Lanka
-🌐 Portfolio: hamoodthariq.vercel.app | 🔗 LinkedIn: Hamood Thariq
+🌐 Portfolio — hamoodthariq.vercel.app
+🔗 LinkedIn — Hamood Thariq
