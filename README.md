@@ -1,93 +1,106 @@
-Hi, I'm Hamood Thariq
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm <strong>Hamood Thariq</strong></h1>
+<p align="center">
+  Software Engineering Undergraduate • Sri Lanka <br>
+  Passionate about IT Project Management • Full Stack Development • IoT Solutions
+</p>
 
-Software Engineering Undergraduate — Sri Lanka
-Focused on IT Project Management, Full-Stack Development, and IoT Solutions
+---
 
-I enjoy turning ideas into successful, user-focused solutions through collaboration, structured planning, and continuous learning.
+<!-- About Me -->
+<h2>📌 About Me</h2>
+<p>
+I’m a dedicated Software Engineering student who loves transforming ideas into reliable and impactful digital solutions.  
+I enjoy coordinating work, supporting smooth delivery, and collaborating with motivated teams.  
+Always learning, always improving.
+</p>
 
-📌 About Me
+---
 
-Motivated to grow in project leadership roles while contributing to impactful digital products.
-Strengths in coordination, communication, and task execution within tech teams.
+<!-- Skills Section -->
+<h2>🧠 Core Skills</h2>
 
-“Clear planning + teamwork + consistent iteration = successful delivery.”
+<h3>Project & Collaboration</h3>
+<ul>
+  <li>Project Coordination & Team Leadership</li>
+  <li>Agile Principles & Delivery Support</li>
+  <li>Task Planning & Tracking</li>
+  <li>Requirements Documentation & Communication</li>
+</ul>
 
-🧠 Core Skills
-Project & Collaboration
+<h3>Technical Skills</h3>
+<ul>
+  <li><strong>Languages:</strong> Java, JavaScript, Dart, Python</li>
+  <li><strong>Frameworks:</strong> Spring Boot, React, Flutter</li>
+  <li><strong>Tools:</strong> Git & GitHub, REST APIs, IoT, MySQL, Firebase</li>
+</ul>
 
-Project Coordination & Team Leadership
+---
 
-Agile Principles & Delivery Support
+<!-- Projects Section -->
+<h2>📂 Featured Projects</h2>
 
-Task Tracking & Reporting
+<ul>
+  <li><strong>Billing & Inventory Management System</strong> — Team Lead  
+  Coordinated delivery of a unified business management platform.</li>
 
-Stakeholder Communication
+  <li><strong>IoT Landslide Detection System</strong> — Team Lead  
+  Managed real-time alerting solution leveraging IoT hardware.</li>
 
-Requirements Documentation
+  <li><strong>Rotaract Club Website</strong> — Lead Developer  
+  🌐 Live: <a href="https://rackhcp.vercel.app/">rackhcp.vercel.app</a>  
+  Planned dashboard & CMS feature implementation.</li>
 
-Technical
+  <li><strong>QuickCart Mobile App</strong> — Team Lead  
+  Oversaw requirement execution and milestone tracking.</li>
+</ul>
 
-Languages: Java, JavaScript, Dart, Python
+---
 
-Frameworks/Tools: Spring Boot, React.js, Flutter
+<!-- GitHub Stats -->
+<h2>📊 GitHub Insights</h2>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hxm-xd&theme=react&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxm-xd&layout=compact&theme=react&hide_border=true" />
+</p>
 
-Databases: MySQL, Firebase
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=hxm-xd&theme=react&hide_border=true" />
+</p>
 
-Other: REST APIs, Git & GitHub, IoT
+---
 
-📂 Featured Projects
-Project	Role	Area
-Billing & Inventory Management System	Team Lead	PM + Full Stack
-IoT-Based Landslide Detection System	Team Lead	PM + IoT
-Rotaract Club Website	Lead Developer	PM + Web Dev
-QuickCart Mobile App	Team Lead	PM + Mobile Dev
+<!-- Currently Working On -->
+<h2>🔧 What I'm Working On</h2>
+<ul>
+  <li>Improving Agile & team coordination skills</li>
+  <li>Expanding my portfolio with live demos & case studies</li>
+  <li>Publishing project repositories with clean documentation</li>
+</ul>
 
-🔗 Live Example: rackhcp.vercel.app
+---
 
-I will be adding demos, screenshots, and repository links as they are deployed.
+<!-- Leadership -->
+<h2>🏆 Leadership & Volunteering</h2>
+<ul>
+  <li>Director of Professional Development — Rotaract Club of Kandy Hill Capital</li>
+  <li>Co-Lead — STEM UP Foundation</li>
+  <li>Member — NIBM IT Society</li>
+</ul>
 
-📌 What I'm Working On
+---
 
-Refining my project management and Agile delivery experience
+<!-- Contact -->
+<h2>📫 Contact</h2>
+<p>
+<strong>Email:</strong> HamoodThariq@outlook.com<br>
+<strong>Location:</strong> Sri Lanka<br>
+<strong>Portfolio:<a href="https://hamoodthariq.vercel.app"> hamoodthariq.vercel.app</a></strong><br>
+<strong>LinkedIn:<a href="https://www.linkedin.com/in/hamood-thariq-979409289/"> Hamood Thariq</a></strong> 
+</p>
 
-Improving UI/UX & dashboard integration for club website
+---
 
-Building mini-tools for portfolio expansion
-
-Preparing to publish all major project repos publicly
-
-🏆 Leadership & Community
-
-Director of Professional Development — Rotaract KHC
-
-Co-Lead — STEM UP Foundation
-
-Member — NIBM IT Society
-
-Gained strong teamwork, communication, and initiative-driven experience.
-
-📊 GitHub Insights
-Contribution Activity (Animated)
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hxm-xd&theme=react&hide_border=true"/> </p>
-Stats & Languages
-<p align="center"> <img height="155" src="https://github-readme-stats.vercel.app/api?username=hxm-xd&show_icons=true&theme=react&hide_border=true"/> <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxm-xd&layout=compact&theme=react&hide_border=true"/> </p>
-📌 Pinned Work
-<p align="center"> <a href="https://github.com/hxm-xd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hxm-xd&repo=khcp-web&theme=react&hide_border=true"/></a> <a href="https://github.com/hxm-xd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hxm-xd&repo=ldms-web&theme=react&hide_border=true"/></a> </p>
-
-Replace Project-1 and Project-2 with your repository names once uploaded and I will update the links for you.
-
-🎯 Goals
-
-Become a future Project Manager / Tech Lead
-
-Work with enterprise-grade projects in global teams
-
-Contribute to impactful software and resilient IoT solutions
-
-📫 Contact
-
-📧 HamoodThariq@outlook.com
-
-📍 Sri Lanka
-🌐 Portfolio — hamoodthariq.vercel.app
-🔗 LinkedIn — Hamood Thariq
+<p align="center">
+Thanks for visiting my profile! Let’s build something meaningful together.
+</p>
