@@ -1,48 +1,55 @@
-👋 Hi, I'm Hamood Thariq
+Hi, I'm Hamood Thariq
 
-🎓 Software Engineering Student
-📍 Sri Lanka
-💻 Passionate about IT Project Management, Full-Stack Development, and IoT Solutions
-🚀 Always learning, building, and leading impactful tech projects
+Software Engineering Student — Sri Lanka
+Focused on IT Project Management, Full-Stack Development, and IoT Solutions.
+Driven to build impactful digital products through structured execution, teamwork, and continuous learning.
 
-🚀 About Me
+About Me
 
-I’m a motivated Software Engineering undergraduate who enjoys turning ideas into well-executed digital solutions. With hands-on experience in project coordination, adaptive teamwork, and modern development practices, I aim to build technology that solves real-world problems.
+I am a dedicated Software Engineering undergraduate with experience coordinating projects in web, mobile, and embedded systems.
+I enjoy transforming ideas into successful results by prioritizing communication, clear planning, and progress tracking.
 
-👨‍💼 Leadership roles in volunteering organizations
-📈 Strong skills in planning, collaboration & communication
-⚙️ Experience working with Agile and cross-functional teams
+“I believe great engineering is built on collaboration, clarity, and consistency.”
 
-“I love transforming concepts into successful outcomes — through teamwork, planning, and continuous learning.”
+Core Skills
 
-🧠 Core Skills
-🗂 Project & Collaboration
+Project & Collaboration
 
-Project Coordination & Agile Concepts
+Project Coordination & Leadership
+
+Agile Delivery Support
 
 Task Planning & Tracking
 
-Documentation & Requirements Management
+Requirements Documentation
 
-Stakeholder Communication
+Stakeholder Interaction
 
-💻 Technical Skills
+Technical
 
 Languages: Java, JavaScript, Dart, C#, Python
 
-Frameworks & Tools: Spring Boot, React.js, Flutter
+Tools/Frameworks: Spring Boot, React.js, Flutter
 
 Databases: MySQL, Firebase
 
-Other: Git & GitHub, REST APIs, Embedded Systems (IoT)
+Other: REST APIs, Git & GitHub, IoT
 
-🔥 Projects
-Project	Role	Description	Highlights
-Billing & Inventory Management System	Team Lead (4)	All-in-one platform for motor service & spare-parts operations	Project coordination, timeline tracking, team communication
-IoT Landslide Detection System	Team Lead (4)	Real-time predictive safety alerts for disaster prevention	Risk management, cross-functional delivery support
-Rotaract Club Website	Lead Developer (5)	Responsive platform with CMS dashboard (coming soon)	Team leadership, UI/UX coordination
-QuickCart Mobile App	Team Lead (5)	Unified goods purchasing & service ordering	Requirement analysis, milestone-driven delivery
-🏆 Volunteering & Leadership
+Projects
+
+Billing & Inventory Management System — Team Lead (4)
+Coordinated team deliverables for a management solution for motor service and spare parts operations
+
+IoT-Based Landslide Detection System — Team Lead (4)
+Managed task allocation and delivery for real-time alerting and safety monitoring solution
+
+Rotaract Club Website — Lead Developer (5)
+Developed the club’s platform and coordinated dashboard feature planning (rackhcp.vercel.app)
+
+QuickCart Mobile App — Team Lead (5)
+Led an all-in-one app project integrating goods & on-demand services ordering
+
+Leadership & Volunteering
 
 Director of Professional Development — Rotaract Club of Kandy Hill Capital
 
@@ -50,26 +57,21 @@ Co-Lead — STEM UP Foundation
 
 Member — NIBM IT Society
 
-Developed communication, teamwork, event coordination, and leadership skills through community impact initiatives.
+Built skills in team coordination, organizing operations, and managing responsibilities effectively.
 
-🎯 My Goals
+GitHub Stats
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=hxm-xd&show_icons=true&hide_border=true&theme=react"/> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxm-xd&layout=compact&hide_border=true&theme=react"/> </p>
+Goals
 
-✔ Grow into a Project Manager / Tech Lead
-✔ Contribute to impactful solutions in global teams
-✔ Strengthen expertise in enterprise-grade products & Agile delivery
+Grow into IT Project Manager / Tech Lead roles
 
-📫 Contact Me
+Work on enterprise-grade software & emerging technologies
+
+Contribute to high-impact solutions in global teams
+
+Contact
 
 📧 HamoodThariq@outlook.com
 
 📍 Sri Lanka
-🌐 Portfolio
- (optional to update)
-🔗 LinkedIn
- | 🖥 GitHub
-
-If you’d like, I can also:
-
-✨ Add badges, activity graphs & contribution chart
-🎨 Customize styling with icons and section dividers
-🔧 Include dynamic GitHub statistics
+🌐 Portfolio: hamoodthariq.vercel.app | 🔗 LinkedIn: Hamood Thariq
