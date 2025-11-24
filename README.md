@@ -46,6 +46,7 @@ Always learning, always improving.
 
   <li><strong>IoT Landslide Detection System</strong> — Team Lead  
   Managed real-time alerting solution leveraging IoT hardware.</li>
+  🌐 Live: <a href="https://landbud.vercel.app/">landbud.vercel.app</a> 
 
   <li><strong>Rotaract Club Website</strong> — Lead Developer  
   🌐 Live: <a href="https://rackhcp.vercel.app/">rackhcp.vercel.app</a>  
