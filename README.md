@@ -30,9 +30,10 @@ Always learning, always improving.
 
 <h3>Technical Skills</h3>
 <ul>
-  <li><strong>Languages:</strong> Java, JavaScript, Dart, Python</li>
-  <li><strong>Frameworks:</strong> Spring Boot, React, Flutter</li>
-  <li><strong>Tools:</strong> Git & GitHub, REST APIs, IoT, MySQL, Firebase</li>
+  <li><strong>Languages:</strong> C, C++, C#, Java, JavaScript, Dart, Python, Kotlin</li>
+  <li><strong>Frameworks & Libraries:</strong> Spring Boot, React, Flutter, Node.js, Express.js, Bootstrap</li>
+  <li><strong>Tools & Technologies:</strong> Git & GitHub, REST APIs, Firebase, MySQL, MongoDB, IoT Systems, Arduino, ESP32, Jira, Trello</li>
+  <li><strong>Specialized Areas:</strong> Embedded Systems, Mobile App Development, Full-Stack Development, Machine Learning (Beginner), Cloud Services (Beginner)</li>
 </ul>
 
 ---
