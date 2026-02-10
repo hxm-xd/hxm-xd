@@ -4,10 +4,10 @@
 ======================== -->
 
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm <strong>Hamood Thariq</strong></h1>
+<h1 align="center"> Hi, I'm <strong>Hamood Thariq</strong></h1>
 
 <p align="center">
-  <strong>Software Engineering Undergraduate</strong> • Full-Stack Developer • IoT & Systems Builder <br/>
+  <strong>Software Engineering Undergraduate</strong> • Full-Stack Developer • IoT & Embedded Systems Enthusiast <br/>
   🇱🇰 Sri Lanka
 </p>
 
@@ -20,7 +20,7 @@
 <hr/>
 
 <!-- About -->
-<h2>🚀 About</h2>
+<h2>About</h2>
 <p>
   I’m a software engineering undergraduate focused on building <strong>scalable, real-world systems</strong> across web, mobile, and IoT.  
   I work at the intersection of <strong>engineering, coordination, and execution</strong> — delivering structured solutions, clean architectures, and production-grade applications.
@@ -36,9 +36,9 @@
 <hr/>
 
 <!-- Tech Stack -->
-<h2>🧠 Tech Stack</h2>
+<h2>Tech Stack</h2>
 
-<h3>💻 Languages</h3>
+<h3>Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
-<h3>⚙️ Frameworks & Platforms</h3>
+<h3>Frameworks & Platforms</h3>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -59,14 +59,14 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </p>
 
-<h3>🗄️ Databases & Cloud</h3>
+<h3>Databases & Cloud</h3>
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-<h3>🔧 Systems & Tools</h3>
+<h3>Systems & Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -78,11 +78,11 @@
 <hr/>
 
 <!-- Projects -->
-<h2>📂 Featured Projects</h2>
+<h2>Featured Projects</h2>
 
-<h3>🌐 LandBud — Smart Land Management Platform</h3>
+<h3>LandBud — Smart Land Management Platform</h3>
 <p>
-  <strong>IoT + Web Platform</strong><br/>
+  <strong>IoT + Web + Mobile project</strong><br/>
   Live: <a href="https://landbud.vercel.app" target="_blank">landbud.vercel.app</a><br/>
 </p>
 <ul>
@@ -91,7 +91,7 @@
   <li>IoT integration + cloud deployment</li>
 </ul>
 
-<h3>🌐 Rotaract Club Platform (RACKHCP)</h3>
+<h3>Rotaract Club Platform (RACKHCP)</h3>
 <p>
   <strong>Production Website + System Architecture</strong><br/>
   Live: <a href="https://rackhcp.vercel.app" target="_blank">rackhcp.vercel.app</a><br/>
@@ -102,7 +102,7 @@
   <li>Scalable content structure</li>
 </ul>
 
-<h3>📱 QuickCart — Multi-Service Mobile Platform</h3>
+<h3>QuickCart — Multi-Service Mobile Platform</h3>
 <p><strong>Flutter Mobile App</strong></p>
 <ul>
   <li>Transport, delivery, services, and bookings</li>
@@ -110,7 +110,7 @@
   <li>Modular service architecture</li>
 </ul>
 
-<h3>🧾 Billing & Inventory Management System</h3>
+<h3>Billing & Inventory Management System</h3>
 <p><strong>Enterprise Desktop System</strong></p>
 <ul>
   <li>Business operations platform</li>
@@ -118,7 +118,7 @@
   <li>Database-driven architecture</li>
 </ul>
 
-<h3>🌍 IoT Landslide Detection System</h3>
+<h3>IoT Landslide Detection System</h3>
 <p><strong>Hardware + Software System</strong></p>
 <ul>
   <li>Sensor networks</li>
@@ -129,7 +129,7 @@
 <hr/>
 
 <!-- GitHub Stats -->
-<h2>📊 GitHub Analytics</h2>
+<h2>GitHub Analytics</h2>
 
 <p align="center">
   <img height="165"
@@ -146,7 +146,7 @@
 <hr/>
 
 <!-- Focus -->
-<h2>🎯 Current Focus</h2>
+<h2>Current Focus</h2>
 <ul>
   <li>AI-assisted development systems</li>
   <li>BYOK (Bring Your Own Key) AI architectures</li>
@@ -158,7 +158,7 @@
 <hr/>
 
 <!-- Leadership -->
-<h2>🏆 Leadership</h2>
+<h2>Leadership</h2>
 <ul>
   <li><strong>Director of Professional Development</strong> — Rotaract Club of Kandy Hill Capital</li>
   <li><strong>Co-Lead</strong> — STEM UP Foundation</li>
