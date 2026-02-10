@@ -23,15 +23,8 @@
 <h2>About</h2>
 <p>
   I’m a software engineering undergraduate focused on building <strong>scalable, real-world systems</strong> across web, mobile, and IoT.  
-  I work at the intersection of <strong>engineering, coordination, and execution</strong> — delivering structured solutions, clean architectures, and production-grade applications.
+  I work at the intersection of <strong>engineering, coordination, and execution</strong>, delivering structured solutions, clean architectures, and production-grade applications.
 </p>
-
-<ul>
-  <li>System design, not just features</li>
-  <li>Clean code & documentation</li>
-  <li>Real deployments, not demos</li>
-  <li>Automation, reliability, and performance</li>
-</ul>
 
 <hr/>
 
@@ -142,20 +135,6 @@
   <img height="165"
     src="https://github-readme-streak-stats.herokuapp.com/?user=hxm-xd&theme=react&hide_border=true" />
 </p>
-
-<hr/>
-
-<!-- Focus -->
-<h2>Current Focus</h2>
-<ul>
-  <li>AI-assisted development systems</li>
-  <li>BYOK (Bring Your Own Key) AI architectures</li>
-  <li>Local LLM tooling</li>
-  <li>Scalable SaaS system design</li>
-  <li>Full-stack automation pipelines</li>
-</ul>
-
-<hr/>
 
 <!-- Leadership -->
 <h2>Leadership</h2>
